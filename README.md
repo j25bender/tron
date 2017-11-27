@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/j25bender/tron.png?columns=all)](https://waffle.io/j25bender/tron?utm_source=badge)
 # Game Time Starter Kit (FE - Module 2)
 
 Basic Game Time starter kit.
