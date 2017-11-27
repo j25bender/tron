@@ -1,52 +1,14 @@
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/j25bender/tron.png?columns=all)](https://waffle.io/j25bender/tron?utm_source=badge)
-# Game Time Starter Kit (FE - Module 2)
 
-Basic Game Time starter kit.
+#TRON
 
-## Initial Setup
+## Game Time Mod2 Project (FE - Module 2)
 
-One person from your project will sets up the repository. That one person should follow these steps:
-
-1. Clone this starter kit repository and rename the repository to `game-time` in one command
+1. Clone the repository
 
   ```shell
-  git clone git@github.com:turingschool-examples/game-time-starter-kit-FEm1.git game-time
+  git clone git@github.com:turingschool-examples/tron.git
   ```
-
-2. Change into the `game-time` directory
-
-3. Remove the default remote (origin)
-
-  ```shell
-  git remote rm origin
-  ```
-
-4. Create a new repository on GitHub named `game-time`
-
-5. Add your new repository remote to the game time starter kit - **your remote URL and user name will be different in the command below**
-
-  ```shell
-  git remote add origin git@github.com:robbiejaeger/game-time.git
-  ```
-
-6. Install the dependencies of the starter kit
-
-  ```shell
-  npm install
-  ```
-
-7. Add, commit, and push up to your repository
-
-  ```shell
-  git add .
-  git commit -m "Initial commit using starter kit"
-  git push origin master
-  ```
-
-8. Now add your team member(s) as collaborators to the repository. They can now clone down your `game-time` repository as normal.
-
-9. Once each partner clones down the repo, they need to run `npm install` to install the dependencies on their machine.
-
 ## Run the Server
 
 To see your code in action, you need to fire up a development server. Use the command:
@@ -54,7 +16,6 @@ To see your code in action, you need to fire up a development server. Use the co
 ```shell
 npm start
 ```
-
 Once the server is running, visit in your browser:
 
 * `http://localhost:8080/webpack-dev-server/` to run your application.
