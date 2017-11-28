@@ -1,0 +1,17 @@
+
+
+left arrow = 37
+up arrow = 38
+right arrow = 39
+down arrow = 40 
+
+enter-turbo = 13
+
+spacebar-startGame = 32
+
+tab-turbo = 9
+
+w-up = 87
+a-left = 65
+s-down = 83
+d-right = 68
