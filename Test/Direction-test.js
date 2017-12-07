@@ -5,9 +5,7 @@ describe('Directions', () => {
   let lightCycle;
 
   it('Should have properties', () => {
-    expect(Directions).to.include({counter: 0})
+    expect(Directions).to.include({width: 4});
+    assert(width).to.equal(4);
   })
-
-  
-
 });
