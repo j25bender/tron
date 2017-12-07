@@ -1,6 +1,10 @@
 var {expect} = require('chai');
 var LightCycle = require('../lib/LightCycle.js');
 
+global.docuemnt -= {
+  getElementById: function() {}
+}
+
 describe('LightCycle', () => {
   let lightCycle;
 

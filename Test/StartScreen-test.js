@@ -5,7 +5,8 @@ describe('StartScreen', () => {
   let lightCycle;
 
   it('Should have properties', () => {
-    expect(StartScreen).to.include({counter: 0})
+    let ss = new StartScreen();
+    expect(ss).to.include({counter: 0})
   })
 
 });
