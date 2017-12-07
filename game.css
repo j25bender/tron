@@ -22,7 +22,7 @@
     font-size: 24px;
     font-weight: bold;
     height: 24px;
-    width: 200px;
+    width: 300px;
     color: #1469EE;
     padding-left: 20px;
     border: 2px solid white;
@@ -37,7 +37,7 @@
     font-weight: bold;
     height: 24px;
     padding-left: 20px;
-    width: 200px;
+    width: 300px;
     color: #E23225;
     border: 2px solid white;
     -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
