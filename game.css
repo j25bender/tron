@@ -1,6 +1,7 @@
 * {
     margin: 0;
 }
+
 #canvas-container {
     width: 100%;
     height: 100%;
@@ -9,6 +10,7 @@
     background-repeat: no-repeat;
     padding-bottom: 100vh;
 }
+
 #game {
     background-color: rgba(0, 0, 0, 0.8);
     border: 3px solid #59CFEE;
@@ -16,43 +18,3 @@
     margin: auto;
     display: block;
 }
-#p1-lives {
-    float: left;
-    color: #9c92c9;
-    font-size: 24px;
-    font-weight: bold;
-    height: 30px;
-    width: 195px;
-    color: #1469EE;
-    padding-left: 20px;
-    border: 2px solid white;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
-  }
-  #p2-lives {
-    float: right;
-    color: #9c92c9;
-    font-size: 24px;
-    font-weight: bold;
-    height: 30px;
-    padding-left: 20px;
-    width: 195px;
-    color: #E23225;
-    border: 2px solid white;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
-  }
-  #update-p1-lives {
-    color: #1469EE;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
-  }
-  #update-p2-lives {
-    color: #E23225;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
-  }
