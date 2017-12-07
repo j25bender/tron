@@ -7,6 +7,7 @@
     display: block;
     background-image: url("https://images5.alphacoders.com/491/thumb-1920-491120.png");
     background-repeat: no-repeat;
+    padding-bottom: 100vh;
 }
 #game {
     background-color: rgba(0, 0, 0, 0.8);
