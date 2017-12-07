@@ -21,8 +21,8 @@
     color: #9c92c9;
     font-size: 24px;
     font-weight: bold;
-    height: 24px;
-    width: 300px;
+    height: 30px;
+    width: 195px;
     color: #1469EE;
     padding-left: 20px;
     border: 2px solid white;
@@ -35,9 +35,9 @@
     color: #9c92c9;
     font-size: 24px;
     font-weight: bold;
-    height: 24px;
+    height: 30px;
     padding-left: 20px;
-    width: 300px;
+    width: 195px;
     color: #E23225;
     border: 2px solid white;
     -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
