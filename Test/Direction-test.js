@@ -1,11 +1,12 @@
-var {expect} = require('chai');
-var Directions = require('../lib/Directions.js');
+const {expect} = require('chai');
+const Directions = require('../lib/Directions.js');
+const LightCycle = require('../lib/LightCycle.js');
 
 describe('Directions', () => {
-  let lightCycle;
 
   it('Should have properties', () => {
-    expect(Directions).to.include({width: 4});
-    assert(width).to.equal(4);
+    let directions = new LightCycle();    
+    expect(directions).to.include({x: this.x});
+    console.log(this.x)
   })
 });
