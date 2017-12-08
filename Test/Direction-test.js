@@ -7,6 +7,5 @@ describe('Directions', () => {
   it('Should have properties', () => {
     let directions = new LightCycle();    
     expect(directions).to.include({x: this.x});
-    console.log(this.x)
   })
 });

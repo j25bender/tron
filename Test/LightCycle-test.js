@@ -60,14 +60,12 @@ describe('LightCycle', () => {
   })
 
   it('LightCycle should collide with player2 trail', () => { 
-    lightCycle1.x = 296;
+    lightCycle1.x = 292;
     lightCycle2.x = 304;   
     lightCycle1.move();
     lightCycle2.move();
-    
-    console.log(lightCycle1.cycleArr)  
-    console.log(lightCycle2.cycleArr)   
-    console.log(lightCycles)
+    lightCycle1.move();
+    lightCycle2.move();
     expect(lightCycles[0].checkCollision(lightCycles[1])).to.equal('#7AF6D8');
   })
 
