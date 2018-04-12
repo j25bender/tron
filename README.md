@@ -1,6 +1,11 @@
+## Play Tron on Surge!
+
+[Click to Play](http://tron-game.surge.sh/)
+
+
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/j25bender/tron.png?columns=all)](https://waffle.io/j25bender/tron?utm_source=badge)
 
-#TRON
+# TRON
 
 ## Game Time Mod2 Project (FE - Module 2)
 
